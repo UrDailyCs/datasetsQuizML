@@ -45,7 +45,7 @@ Alam Sutera,Cemara,200,150,6,4,4000000000
 Alam Sutera,Cemara,382,200,4,2,5200000000
 Alam Sutera,Cemara,350,350,5,3,6500000000
 Green Lake,Eropa,250,300,3,3,6150000000
-Green Lake,Eropa195,150,5,4,4700000000
+Green Lake,Eropa,195,150,5,4,4700000000
 Green Lake,Eropa,195,350,5,4,4700000000
 Alam Sutera,Onyx,420,375,4,4,7500000000
 Alam Sutera,Buana,300,295,5,3,5900000000
